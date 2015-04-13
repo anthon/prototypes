@@ -1,0 +1,19 @@
+{
+  "name": "prototypes",
+  "version": "0.1.0",
+  "authors": [
+    "Anthon Astrom <anthon@astromzimmer.com>"
+  ],
+  "description": "JS prototypes",
+  "main": "prototypes.js",
+  "license": "aLICENSE",
+  "homepage": "astromzimmer.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src"
+  ],
+  "dependencies": {}
+}
